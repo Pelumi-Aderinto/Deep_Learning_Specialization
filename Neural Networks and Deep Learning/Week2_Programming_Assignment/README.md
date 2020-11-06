@@ -1,1 +1,1 @@
-This contains an ipynb file showcasing logistic regression with neural network mindset. The .py file included in this directory are the python dependencies needed to get the job done. You can look through to familiarize yourself.
+This contains an ipynb file showcasing logistic regression with neural network mindset. The .py file included in this directory is the python dependency needed to load and preprocess the dataset. You can look through to familiarize yourself.
