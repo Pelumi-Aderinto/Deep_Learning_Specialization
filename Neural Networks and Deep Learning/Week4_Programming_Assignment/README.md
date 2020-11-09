@@ -1,0 +1,1 @@
+In this week's assignment, I was able to build a step by step DNN and the network model was also applied to classify cat vs non-cat images. The .py file included in this directory are the necessary utilities/packages that were imported and used in the course of the developing the DNN.
