@@ -1,1 +1,1 @@
-This week two assignment shows how we can further improve/optimize our deep neural network using mini-batch gradient descent and an advanced optimization algorithm called "Adam's Optimization"
+This week two assignment shows how we can further improve/optimize our deep neural network using mini-batch gradient descent and an advanced optimization algorithm called "Adam's Optimization". It also contains the dataset and two .py utility files required for the completion of the ipython notebook.
